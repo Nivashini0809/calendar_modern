@@ -180,13 +180,4 @@ This project is open source and available under the [MIT License](LICENSE).
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📞 Support
 
-If you encounter any issues or have questions, please:
-1. Check the troubleshooting section above
-2. Search existing issues in the repository
-3. Create a new issue with detailed information
-
----
-
-**Happy coding! 🎉** 
